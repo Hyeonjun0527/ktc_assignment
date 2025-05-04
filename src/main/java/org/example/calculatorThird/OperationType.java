@@ -1,4 +1,4 @@
-package org.example.calculator;
+package org.example.calculatorThird;
 
 public enum OperationType {
     ADD('+'),

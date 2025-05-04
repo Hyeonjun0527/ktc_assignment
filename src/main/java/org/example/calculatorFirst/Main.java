@@ -1,4 +1,7 @@
-package org.example.calculator;
+package org.example.calculatorFirst;
+
+import org.example.calculatorFirst.calculator.ArithmeticCalculator;
+import org.example.calculatorFirst.calculator.OperationType;
 
 import java.util.Scanner;
 
